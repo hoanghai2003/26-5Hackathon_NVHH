@@ -23,7 +23,7 @@ body{
   margin-top: 20px;
 }
 
-.input-bt input{
+.input-bt textarea{
     width: 310px;
     height: 95px;
     border-radius: 10px;
@@ -31,7 +31,7 @@ body{
     padding-left: 10px;
 }
 
-.input-bt input:focus{
+.input-bt textarea:focus{
     outline: none;
 }
 .input-bt button{
